@@ -927,6 +927,9 @@ nav ul li:hover ul.dropbtn, ::after{
         display: flex;
         flex-direction: column;
         padding-top: 100px;
+
+        img{
+            margin-left: 0;
     }
     /* =========== About End =========== */
 
@@ -1527,6 +1530,7 @@ nav ul li:hover ul.dropbtn, ::after{
 }
 
 }
+
 
 
 
