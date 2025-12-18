@@ -178,7 +178,7 @@ nav ul li:hover ul.dropbtn, ::after{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 35vh;
     background-image: url(logo-bg.jpg);
     background-repeat: no-repeat;
 }
@@ -694,7 +694,6 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: auto;
         margin-bottom: 20px;
         margin-top: 20px;
-        max-width: 400px
         width: 100%;
         padding: 0 40px;
         border-radius: 10px;
@@ -1016,16 +1015,15 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: auto;
         margin-bottom: 20px;
         margin-top: 20px;
-        max-width: 250;
-        width: 100%
+        max-width: 340px;
         padding: 0 40px;
         border-radius: 10px;
-        width: 100%;
         text-align: center;
 
         iframe{
             border-radius: 10px;
             height: 250px;
+            width: 300px
         }
     }
     }
@@ -1510,19 +1508,20 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: auto;
         margin-bottom: 20px;
         margin-top: 20px;
-        width: 100%;
         padding: 0 40px;
         border-radius: 10px;
-        max-width: 200px;
+        max-width: 340px;
         text-align: center;
 
         iframe{
             border-radius: 10px;
             height: 250px;
+            width: 300px;
         }
 }
 
 }
+
 
 
 
