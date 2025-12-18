@@ -696,7 +696,7 @@ nav ul li:hover ul.dropbtn, ::after{
         margin-bottom: 20px;
         margin-top: 20px;
         width: 100%;
-        padding: 10px;ik8
+        padding: 10px;
         border-radius: 10px;
         text-align: center;
 
@@ -808,7 +808,7 @@ nav ul li:hover ul.dropbtn, ::after{
      }
 
         .wrapper{
-            height: 60vh;
+            height: 80vh;
         }
 
      .logo{
@@ -1021,6 +1021,7 @@ nav ul li:hover ul.dropbtn, ::after{
         margin-bottom: 20px;
         margin-top: 20px;
         max-width: 340px;
+        width: 100%
         padding: 0 40px;
         border-radius: 10px;
         text-align: center;
@@ -1526,6 +1527,7 @@ nav ul li:hover ul.dropbtn, ::after{
 }
 
 }
+
 
 
 
