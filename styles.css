@@ -46,9 +46,9 @@ nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    height: 50px;
+    height: 80px;
     background-color: hsl(6, 78%, 47%);
-    /* position: fixed; */
+    position: fixed;
     min-width: 100%;
     z-index: 1000;
     padding-bottom: 30px;
@@ -696,8 +696,8 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: auto;
         margin-bottom: 20px;
         margin-top: 20px;
-        min-width: 200px;
         width: 100%;
+        padding: 0 40px;
         border-radius: 10px;
         width: 100%;
         text-align: center;
@@ -1494,4 +1494,5 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
