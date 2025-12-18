@@ -50,13 +50,14 @@ nav {
     width: 100%;
     background-color: hsl(6, 78%, 47%);
     position: fixed;
+    margin-bottom: 30px;i8
     z-index: 1000;
 }
 
 .logo{
     width: 100px;
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 60px;
     padding: 10px;
     border-radius: 8px;
@@ -178,7 +179,7 @@ nav ul li:hover ul.dropbtn, ::after{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 60vh;
+    height: 45vh;
     background-image: url(logo-bg.jpg);
     background-repeat: no-repeat;
 }
@@ -695,7 +696,7 @@ nav ul li:hover ul.dropbtn, ::after{
         margin-bottom: 20px;
         margin-top: 20px;
         width: 100%;
-        padding: 0 40px;
+        padding: 10px;ik8
         border-radius: 10px;
         text-align: center;
 
@@ -805,6 +806,10 @@ nav ul li:hover ul.dropbtn, ::after{
         height: 100vh;
         z-index: 9;
      }
+
+        .wrapper{
+            height: 60vh;
+        }
 
      .logo{
        margin-left: 20%;
@@ -1521,6 +1526,7 @@ nav ul li:hover ul.dropbtn, ::after{
 }
 
 }
+
 
 
 
