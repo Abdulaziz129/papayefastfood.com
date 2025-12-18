@@ -46,11 +46,12 @@ nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    height: 80px;
+    height: 50px;
     background-color: hsl(6, 78%, 47%);
     position: fixed;
     min-width: 100%;
     z-index: 1000;
+    padding-bottom: 30px;
 }
 
 .logo{
@@ -1487,6 +1488,7 @@ nav ul li:hover ul.dropbtn, ::after{
     }
 
     /* ============ Footer End ==============*/
+
 
 
 }
