@@ -47,7 +47,7 @@ nav {
     justify-content: flex-end;
     align-items: center;
     height: 80px;
-    width: 100%
+    width: 100%;
     background-color: hsl(6, 78%, 47%);
     position: fixed;
     z-index: 1000;
@@ -178,7 +178,7 @@ nav ul li:hover ul.dropbtn, ::after{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 35vh;
+    height: 60vh;
     background-image: url(logo-bg.jpg);
     background-repeat: no-repeat;
 }
@@ -1521,6 +1521,7 @@ nav ul li:hover ul.dropbtn, ::after{
 }
 
 }
+
 
 
 
